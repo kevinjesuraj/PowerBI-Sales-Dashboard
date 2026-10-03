@@ -4,7 +4,7 @@ An interactive Sales Performance Dashboard built using Microsoft Power BI to ana
 
 ## Dashboard Preview
 
-Screenshots of the completed dashboard will be added here.
+![Sales Dashboard](sales-dashboard.png)
 
 ## Key Features
 
